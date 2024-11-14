@@ -31,8 +31,8 @@ This project provided valuable hands-on experience in:
 The implemented antenna demonstrated satisfactory performance at 2.4GHz, making it suitable for various wireless applications. Detailed performance metrics and measurements can be found in the documentation section.
 
 ## Contributors
-- S.A.P. Kavinda
-- Wathsala
+- S.A.P. Kavinda https://github.com/Git-Kavinda/
+- R M W M Dissanayake https://github.com/wathsala-git
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
