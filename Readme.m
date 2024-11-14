@@ -24,17 +24,18 @@ This project provided valuable hands-on experience in:
 - `/images`: Photos of the fabrication process and final product
 
 ## Tools Used
-- Electromagnetic Simulation Software
+- CST Studio Suite 2019
 - Vector Network Analyzer (VNA)
-- Basic fabrication tools
+- FR-4 PCB
+- Basic fabrication tools 
 - Testing and measurement equipment
 
 ## Results
 The implemented antenna demonstrated satisfactory performance at 2.4GHz, making it suitable for various wireless applications. Detailed performance metrics and measurements can be found in the documentation section.
 
 ## Contributors
-- [Your Name]
-- [Team Member's Name]
+- S.A.P. Kavinda
+- 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
