@@ -14,19 +14,17 @@ This project provided valuable hands-on experience in:
 - Problem-solving in resource-constrained environments and team collaboration
 
 ## Repository Contents
-- `/design`: Contains antenna design files and calculations
 - `/simulation`: Electromagnetic simulation results
-- `/documentation`: Project documentation and reports
+- `/documentation`: Project documentation, calculations and reports
 - `/measurements`: Test results and VNA measurements
 - `/images`: Photos of the fabrication process and final product
-- `/fabrication` : Fabrication process without any specialized fabrication equipment.
+- `/PCB_Footprints` : PCB Footprint for 2.4 GHz rectangular patch antenna
 
 ## Tools Used
 - CST Studio Suite 2019
 - Vector Network Analyzer (VNA)
-- FR-4 PCB
+- FR-4 Substrate PCB
 - Basic fabrication tools 
-- Testing and measurement equipment
 
 ## Results
 The implemented antenna demonstrated satisfactory performance at 2.4GHz, making it suitable for various wireless applications. Detailed performance metrics and measurements can be found in the documentation section.
